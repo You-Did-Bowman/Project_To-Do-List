@@ -9,7 +9,7 @@ function Add() {
   const { data, setData } = useContext(FormContext);
   const [thisData, setThisData] = useState({
     id: null,
-    heading: "",
+    category: "", //DS Replacing heading with category
     text: "",
     completed: false,
     timestamp: "",
@@ -26,11 +26,11 @@ function Add() {
     // Assign ID before setting data
     const newTask = { ...thisData, id: Date.now() };
 
-    setData((prevData) => [...prevData, newTask]); // Ensure previous data is retained
+    setData((prevData) => [...prevData, newTask]); //DS Ensure previous data is retained
 
     setThisData({
       id: null,
-      heading: "",
+      category: "",
       text: "",
       completed: false,
       timestamp: "",
@@ -39,7 +39,8 @@ function Add() {
 
     navigate("/");
 
-    console.log("Updated Data:", newTask); // Ensure correct data structure
+    console.log("Updated Data:", newTask); //DS Ensure correct data structure
+
   };
 
   console.log(thisData);
@@ -61,17 +62,34 @@ function Add() {
         return { backgroundColor: "" };
     }
   };
-  const [category, setCategory] = useState();
 
   return (
     <>
       <div className="addContainer">
-        <form onSubmit={handleSubmit} style={priorityColor(thisData.priority)}>
-          
-          <div className="selectComp">
-            <Category setCategory={setCategory} />
-            <Prio setPrior={setPrior} />
+      <form onSubmit={handleSubmit} style={priorityColor(thisData.priority)} >
+
+        {/* Here the Category and Priority will be */}
+<div className="selectComp">
+        <Category 
+          setCategory={(category) => setThisData({ ...thisData, category })} 
+          value={thisData.category} // Ensure category selection is reflected
+        />
+        <Prio setPrior={setPrior}/>
           </div>
+
+          <div className="formInput">
+
+            <label>
+              To-Do
+              <textarea
+                name="text"
+
+                value={thisData.text}
+
+                placeholder="Type your to-do here ..."
+                onChange={handleChange}
+              ></textarea>
+            </label>
 
           <label>
             To-Do
