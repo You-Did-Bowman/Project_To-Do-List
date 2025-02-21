@@ -1,5 +1,6 @@
 # 'TO DO' App Project
-Our group presents an App of To-Do Tasks with some additional features that are not usually inplemented in mobile versions of such sort of apps. The choice was made on basis of the time frame for creating the code, solving issues of combining data from different branches, proper styling and finally deployment of the project.
+This project was a group project at the end of the ‘Single Page Application’ module in my further training at the DCI. 
+Our group consisted of three people. Our group presents an App of To-Do Tasks with some additional features that are not usually inplemented in mobile versions of such sort of apps. The choice was made on basis of the time frame for creating the code, solving issues of combining data from different branches, proper styling and finally deployment of the project.
 
 <details>
   <summary>Contents: 🔽</summary>
@@ -16,6 +17,9 @@ Our group presents an App of To-Do Tasks with some additional features that are 
 
 🔹[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 🔹[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+🔹[![HTML]: https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white]
+🔹[![CSS]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white]
+🔹[![Javascript.com]: https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000]
 
 ## Getting Started
 Work starts with an idea of which App we want to create. Then with the sketch in Excalidraw we create the structure of our App.
