@@ -28,12 +28,14 @@ Our group consisted of three people. Our group presents an App of To-Do Tasks wi
 ## Getting Started
 Work starts with an idea of which App we want to create. Then with the sketch in Excalidraw we create the structure of our App.
 
-![Alt Text](.//src/assets/excalidraw_todo.png)
+<img src=".//src/assets/excalidraw_todo.png" width = "700px">
 
 The next step is to assign tasks for every group-member based on quantity of components and complexity of project's functionality. For that purpose we choose Jira.
 We also assign responsible manager for GitHub for creating the repo, branches, etc. And team-Lead for time-management and organisational matters.
 
-![Alt Text](.//src/assets/jira_todo.png)
+<img src=".//src/assets/jira_todo.png" width = "700px">
+
+![Alt Text]()
 
 Taking into consideration requirements:
 
@@ -61,17 +63,17 @@ Important daily procedure is to push, pull and merge branches for solving small 
 
 🔹To push your changes and get updated code from main to continue working:
 
--> Work in your branch
--> Push changes to your branch occassionally!
--> At EOD, merge your changes to main after taking a pull from main
--> Once your changes are merged to main, inform Github manager
--> After Github manager's successfully merging of all changes (Conflict resolution), come back in your branch
--> Make sure you do the following:
-  -> git checkout main
-  -> git pull
-  -> git checkout "your branch"
-  -> git merge main
--> VOILA! Now your code is UP-TO-DATE!
+- Work in your branch <br>
+- Push changes to your branch occassionally! <br>
+- At EOD, merge your changes to main after taking a pull from main <br>
+- Once your changes are merged to main, inform Github manager <br>
+- After Github manager's successfully merging of all changes (Conflict resolution), come back in your branch <br>
+- Make sure you do the following: <br>
+   - git checkout main <br>
+   - git pull <br>
+   - git checkout "your branch" <br>
+   - git merge main <br>
+- VOILA! Now your code is UP-TO-DATE! <br>
 
 ! After getting the code from main, if you get conflicts, resolve it and push again and if any error occures:
 
@@ -95,3 +97,51 @@ Finally, the footer will recover the contact information of our project-members.
 We appreciate your time to discover the result of our work and trust in our skills and creativity!
 
 [🔼 Back to top](#to-do-app-project)
+
+## Screenshots
+
+<img src="./src/assets/LandingPage.png" width = "700px">
+Landing page
+<br><br>
+<img src="./src/assets/Add-task.png" width = "700px">
+Adding task
+<br><br>
+<img src="./src/assets/LandingPage-with-tasks.png" width = "700px">
+Landing page with tasks
+<br><br>
+<img src="./src/assets/NotFound.png" width = "700px">
+<br>
+Not found page
+<br><br>
+<img src="./src/assets/Mobile Version.png" width = "250px">
+<br>
+Mobile Version
+
+<br>
+
+[🔼 Back to top](#to-do-app-project)
+
+## Contact (alphabetical order)
+
+<b>Divya Mariya Raphy</b>
+<br>
+Mail: divya.raphy@dci-student.org
+<br>
+Github-Link: <a href="https://github.com/divyasheen">Divyasheen</a>
+<br><br>
+
+<b>Nataliia Lishchynska</b>
+<br>
+Mail: -
+<br>
+Github-Link: <a href="https://github.com/NATZEN24">NATZEN24</a>
+<br><br>
+
+<b>Judith Bohmann</b>
+<br>
+Mail: ju.bohmann@gmx.de
+<br>
+Github-Link: <a href="https://github.com/You-Did-Bowman">You-Did-Bowman</a>
+<br><br>
+
+
