@@ -16,10 +16,14 @@ Our group consisted of three people. Our group presents an App of To-Do Tasks wi
 ### Built With
 
 🔹[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+<br>
 🔹[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-🔹[![HTML]: https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white]
-🔹[![CSS]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white]
-🔹[![Javascript.com]: https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000]
+<br>
+🔹![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white)
+<br>
+🔹![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+<br>
+🔹![Javascript.com](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)
 
 ## Getting Started
 Work starts with an idea of which App we want to create. Then with the sketch in Excalidraw we create the structure of our App.
