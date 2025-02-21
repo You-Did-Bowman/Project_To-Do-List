@@ -1,6 +1,8 @@
 # 'TO DO' App Project
 This project was a group project at the end of the ‘Single Page Application’ module in my further training at the DCI. 
-Our group consisted of three people. Our group presents an App of To-Do Tasks with some additional features that are not usually inplemented in mobile versions of such sort of apps. The choice was made on basis of the time frame for creating the code, solving issues of combining data from different branches, proper styling and finally deployment of the project.
+Our group consisted of three people. Our group presents an App of To-Do Tasks with some additional features that are not usually inplemented in mobile versions of such sort of apps. The choice was made on basis of the time frame for creating the code, solving issues of combining data from different branches, proper styling and finally deployment of the project on render:
+<br><br>
+Link to app: <a href="https://project-to-do-list-u8kr.onrender.com">To-Do-App</a>
 
 <details>
   <summary>Contents: 🔽</summary>
@@ -10,6 +12,9 @@ Our group consisted of three people. Our group presents an App of To-Do Tasks wi
 - [Getting Started](#getting-started)
 - [Workflow](#workflow)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contact (alphabetical order)](#contact)
+
 
 </details>
 
@@ -120,6 +125,7 @@ Mobile Version
 <br>
 
 [🔼 Back to top](#to-do-app-project)
+
 
 ## Contact (alphabetical order)
 
