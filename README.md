@@ -126,8 +126,8 @@ Mobile Version
 
 [🔼 Back to top](#to-do-app-project)
 
-## Contact 
-(alphabetical order)
+
+## Contact (alphabetical order)
 
 <b>Divya Mariya Raphy</b>
 <br>
