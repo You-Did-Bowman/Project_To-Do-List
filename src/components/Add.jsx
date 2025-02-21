@@ -52,6 +52,7 @@ function Add() {
       sorttime: new Date().toISOString(),
       priority: "",
     });
+    
 
     navigate("/");
 
