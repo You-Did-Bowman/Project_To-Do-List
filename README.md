@@ -136,6 +136,13 @@ Mail: divya.raphy@dci-student.org
 Github-Link: <a href="https://github.com/divyasheen">Divyasheen</a>
 <br><br>
 
+<b>Judith Bohmann</b>
+<br>
+Mail: ju.bohmann@gmx.de
+<br>
+Github-Link: <a href="https://github.com/You-Did-Bowman">You-Did-Bowman</a>
+<br><br>
+
 <b>Nataliia Lishchynska</b>
 <br>
 Mail: -
@@ -143,11 +150,6 @@ Mail: -
 Github-Link: <a href="https://github.com/NATZEN24">NATZEN24</a>
 <br><br>
 
-<b>Judith Bohmann</b>
-<br>
-Mail: ju.bohmann@gmx.de
-<br>
-Github-Link: <a href="https://github.com/You-Did-Bowman">You-Did-Bowman</a>
-<br><br>
+
 
 
